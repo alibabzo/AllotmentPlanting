@@ -1,0 +1,9 @@
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Allotment Planting.exe
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Allotment Planting.pdb
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Allotment Planting.xml
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AllotmentPlanting.Form1.resources
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AllotmentPlanting.Resources.resources
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Allotment Planting.exe
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Allotment Planting.xml
+C:\Users\alistair\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Allotment Planting.pdb

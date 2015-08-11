@@ -1,0 +1,15 @@
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\Allotment Planting.exe
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\Allotment Planting.xml
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\Allotment Planting.pdb
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\AllotmentPlanting.HelpBox.resources
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\AllotmentPlanting.AllotmentPlanting.resources
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\AllotmentPlanting.Resources.resources
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\Allotment Planting.vbproj.GenerateResource.Cache
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\bin\Debug\Allotment Planting.exe
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\bin\Debug\Allotment Planting.pdb
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\bin\Debug\Allotment Planting.xml
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\bin\Debug\Allotment Planting.exe.manifest
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\bin\Debug\Allotment Planting.application
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\Allotment Planting.TrustInfo.xml
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\Allotment Planting.exe.manifest
+C:\Users\alistair\documents\visual studio 2010\Projects\Allotment Planting\Allotment Planting\obj\x86\Debug\Allotment Planting.application
